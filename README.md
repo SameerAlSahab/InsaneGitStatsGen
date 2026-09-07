@@ -2,7 +2,7 @@
 Great looking github stats which will make huge impact on your git readme.
 
 
-Live at https://sameeralsahabgitstats.vercel.app/
+Live at www.githubstats.tech
 
 Features
 - 100+ themes
